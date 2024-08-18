@@ -1,53 +1,67 @@
-# Hi 👋, I'm Shriya
+# Hi there, I'm Shriya 👋
 
-### A passionate Software Developer from India
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/px9v45I39CcxyXPqEy/giphy.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shriya0903&label=Profile%20views&color=0e75b6&style=flat" alt="Shriya0903" /> </p>
-
-## 💫 About Me:
-- 🔭 I'm currently working on enhancing my software development skills
-- 🌱 I'm currently learning full-stack web development and exploring new technologies
-- 👯 I'm looking to collaborate on innovative web and mobile projects
-- 💬 Ask me about Java, JavaScript, and web development
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Interesting Fact About You]
-
-### 🚀 My Projects:
-1. **Portfolio**: A showcase of my skills and projects
-2. **EaseMyWork**: A project to simplify work processes (forked)
-3. **WPT (Web Programming Technologies)**: Exploring various web technologies
-4. **Java_Programs**: A collection of Java programming exercises and solutions
-5. **My-python-learning-and-exercises**: Documenting my Python learning journey with exercises
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shriya-samaddar-bb0898200)
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats:
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Shriya0903&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shriya0903&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shriya0903&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://media.giphy.com/media/px9v45I39CcxyXPqEy/giphy.gif" alt="Coding" width="300" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shriya0903&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## About Me
+
+I'm a passionate Software Developer from India, constantly exploring new technologies and pushing the boundaries of what's possible in the digital world.
+
+Here's the text with bold and italic formatting applied:
+
+- 🔭 Currently enhancing my **software development** skills
+- 🌱 Learning *full-stack web development*
+- 👯 Open to collaborating on **innovative web and mobile projects**
+- 💬 Ask me about *Java, JavaScript, and web development*
+- 📫 Reach me at: **shriyasamaddar@gmail.com**
+
+## My Projects
+
+1. **Portfolio**: Showcasing my skills and achievements
+2. **EaseMyWork**: Simplifying work processes (forked)
+3. **WPT**: Exploring web programming technologies
+4. **Java_Programs**: Collection of Java exercises and solutions
+5. **My-python-learning-and-exercises**: Documenting my Python journey
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shriya-samaddar-bb0898200)
+
+## Tech Stack
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shriya0903&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shriya0903&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriya0903&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shriya0903&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shriya0903&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shriya0903&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
